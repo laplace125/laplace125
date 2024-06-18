@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @laplace125
-- 👀 I’m interested in web development using HTML , CSS , BOOTSTRAP
--    As a graduate of statistics, I can do a thorough analysis for your data using PYTHON and its libraries like PANDAS, NUMPY,etc
--    I can also Data visualization for your data Using catchy EXCEL Dashboard, Tableau
--    I am also comfortable using SQL.
-- 🌱 I’m currently learning how to build flask applications with udacity.com
-- 💞️ I’m looking to collaborate on fullstack projects to finetune my fullstack skils
-- 📫 You can call/Whatsapp me on +2348161314411  or mail me at akanoafeez@gmail.com
+Hi there! 👋
+I'm @laplace125, and I have a passion for web development and data analysis.
+
+About Me
+- 👀 **Interests:** Web development using HTML, CSS, and Bootstrap.
+- 📊 **Data Analysis:** As a statistics graduate, I excel in data analysis using Python libraries like Pandas and NumPy.
+- 📈 **Data Visualization:** I create engaging data visualizations with Excel dashboards and Tableau.
+- 🗄️ **Database Skills:** Proficient in SQL for database management.
+
+Currently Learning
+- 🌱 I'm expanding my skill set by learning to build Flask applications on [Udacity](https://www.udacity.com/).
+
+Collaboration
+- 💞️ I'm looking to collaborate on full-stack projects to enhance my skills.
+
+Contact Me
+- 📫 Feel free to reach out through:
+- Phone/WhatsApp: +2348161314411
+- Email: akanoafeez@gmail.com
+
+I'm looking forward to connecting and collaborating with you!
+
 
 <!---
 laplace125/laplace125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
